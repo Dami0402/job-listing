@@ -1,0 +1,96 @@
+.color {
+    color:black!important;
+    background-color:#007bff!important;
+}
+
+.color:hover {
+    background-color: rgb(132, 213, 254)!important;
+  }
+  .size {
+    font-size: xx-large!important;
+  }
+  .size2 {
+    font-size: x-large!important;
+  }
+  .margin-top {
+    margin-top: 100px!important;
+    margin-left: 650px!important;
+  }
+  .grey-background {
+    background-color: rgb(63, 69, 87)!important;
+  }
+
+  .green-background {
+    background-color: rgb(80, 206, 75)!important;
+  }
+
+  .red-background {
+    background-color: rgb(233, 87, 87)!important;
+  }
+  .blue-background {
+    background-color:#007bff!important;
+  }
+  .yellow-background {
+    background-color: rgb(196, 199, 40);
+  }
+
+  .margin-bottom {
+    margin-bottom: 100px!important;
+    margin-right: 650px!important;
+  }
+  .font-white {
+    color: white!important;
+  }
+  
+  .font-blue {
+    color:#007bff!important;
+  }
+
+  .exo {
+    font-family: 'Exo', sans-serif!important;
+  }
+  .michroma {
+    font-family: 'Michroma', sans-serif!important;
+  }
+  .size2 {
+    font-size: x-large!important;
+  }
+  .fsize {
+    font-weight: bold!important;
+  }
+  .fsize3 {
+    font-size: 1rem!important;
+  }
+
+  .vh {
+    height: 100vh!important;
+  }
+  .image {
+    background-image:url('image.job')!important;
+  }
+  .padding {
+    padding-left: 70px!important;
+    padding-right: 70px!important;
+  }
+  .margin {
+    margin-left: 70px!important;
+  }
+  .margin2 {
+    margin-left: 90px!important;
+  }
+  .margin3 {
+    margin-left: 700px!important;
+    margin-right: 700px!important;
+  }
+  .margin4 {
+    margin-left: 70px!important;
+    margin-right: 70px!important;
+  }
+
+  .margin5 {
+    margin-left: 90px!important;
+    margin-right: 1360px!important;
+  }
+  .margin6 {
+    margin-top: 100px!important;
+  }
